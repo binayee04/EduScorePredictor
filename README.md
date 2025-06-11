@@ -79,6 +79,15 @@ You can open `eda_notebook.ipynb` using:
 - Jupyter Notebook on your local machine, or  
 - Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
 
+## 📸 Screenshots
+
+Here are examples of our working GUI interface:
+
+![GUI Input Form](gui_prediction_1.png)  
+![Prediction Result - Mid Score](gui_prediction_2.png)  
+![Prediction Result - High Score](gui_prediction_3.png)  
+![Prediction Result - Excellent Score](gui_prediction_4.png)
+
 
 
 
